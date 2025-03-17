@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="200" src="https://github.com/DavidCalles/DavidCalles/blob/main/electronics_banner.png"  />
+</div>
+
+###
+
 <h1 align="left">Hey there, thanks for dropping by...</h1>
 
 ###
